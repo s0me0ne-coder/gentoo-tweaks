@@ -22,8 +22,17 @@
 TODO
 ## purging bloat
  - ::without-systemd
+ - ::olde-gentoo
+ - ::mv
  - TODO
 ## security
  - Ufw
  - hosts level adblocking
-## 
+## Tips
+ - compile ramdisk
+ - zfs or btrfs snapshots
+## Kernel Patchsets
+ - libre
+ - ck
+ - xanmod
+ - zen
