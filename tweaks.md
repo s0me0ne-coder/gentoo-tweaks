@@ -1,5 +1,5 @@
 # Gentoo Tweaks
-
+Note: good luck having these all at once and keeping it maintained for long
 ## Compiler Optimizations
  - LTO
  - PGO
