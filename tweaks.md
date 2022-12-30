@@ -18,8 +18,16 @@ Note: good luck having these all at once and keeping it maintained for long
  - bash-completion
  - hardened
  - selinux
-## replacement coreutils
-TODO
+## replacement stuff
+ - musl
+ - clang
+ - busybox
+ - oksh
+ ### rust rewrites
+   - ion
+   - lsd
+   - bat
+   - uutils
 ## purging bloat
  - ::without-systemd
  - ::olde-gentoo
