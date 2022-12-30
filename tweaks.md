@@ -4,7 +4,9 @@
  - LTO
  - PGO
  - Graphite
- - Ofast
+ - O3
+ - cpuid2cpuflags
+ - march=native
 ## USE Flags
  - doc
  - test
