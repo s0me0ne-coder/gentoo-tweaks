@@ -28,6 +28,7 @@ TODO
 ## security
  - Ufw
  - hosts level adblocking
+ - SELinux
 ## Tips
  - compile ramdisk
  - zfs or btrfs snapshots
