@@ -18,6 +18,7 @@ Note: good luck having these all at once and keeping it maintained for long
  - bash-completion
  - hardened
  - selinux
+ - verify-sig
 ## replacement stuff
  - musl
  - clang
